@@ -60,7 +60,7 @@ require (
 	golang.org/x/crypto v0.0.0-20200709230013-948cd5f35899
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/tools v0.0.0-20201019175715-b894a3290fff
+	golang.org/x/tools v0.0.0-20201215192005-fa10ef0b8743
 	gopkg.in/DataDog/dd-trace-go.v1 v1.27.1
 	gopkg.in/square/go-jose.v2 v2.5.1
 )
