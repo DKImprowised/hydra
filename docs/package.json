@@ -32,7 +32,7 @@
     "mermaid": "8.6.4",
     "node-fetch": "^2.6.1",
     "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "react-dom": "16.14.0",
     "url-loader": "^4.1.0"
   },
   "browserslist": {
