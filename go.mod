@@ -42,7 +42,7 @@ require (
 	github.com/phayes/freeport v0.0.0-20171002181615-b8543db493a5
 	github.com/pkg/errors v0.9.1
 	github.com/pkg/profile v1.3.0 // indirect
-	github.com/prometheus/client_golang v1.4.0
+	github.com/prometheus/client_golang v1.9.0
 	github.com/rs/cors v1.6.0
 	github.com/rubenv/sql-migrate v0.0.0-20190212093014-1007f53448d7
 	github.com/sawadashota/encrypta v0.0.2
