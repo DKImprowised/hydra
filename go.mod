@@ -12,7 +12,7 @@ require (
 	github.com/go-openapi/validate v0.19.6
 	github.com/go-swagger/go-swagger v0.22.1-0.20200306221957-4aad3a5f78b8
 	github.com/gobuffalo/packr v1.24.0 // indirect
-	github.com/gobuffalo/packr/v2 v2.8.0
+	github.com/gobuffalo/packr/v2 v2.8.1
 	github.com/gobuffalo/pop/v5 v5.3.1
 	github.com/gobuffalo/x v0.0.0-20181007152206-913e47c59ca7
 	github.com/gobwas/glob v0.2.3
