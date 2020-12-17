@@ -39,7 +39,7 @@ jobs:
       - image: mysql:5.7
         environment:
           - MYSQL_ROOT_PASSWORD=test
-      - image: cockroachdb/cockroach:v2.1.6
+      - image: cockroachdb/cockroach:v2.1.11
         command: start --insecure
     working_directory: /go/src/github.com/ory/hydra
     steps:
@@ -77,7 +77,7 @@ jobs:
           - POSTGRES_USER=test
           - POSTGRES_PASSWORD=test
           - POSTGRES_DB=postgres
-      - image: cockroachdb/cockroach:v2.1.6
+      - image: cockroachdb/cockroach:v2.1.11
         command: start --insecure
       - image: mysql:5.7
         environment:
