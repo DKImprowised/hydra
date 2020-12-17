@@ -52,7 +52,7 @@
     "json-schema-ref-parser": "8.0.0",
     "ory-prettier-styles": "^1.0.1",
     "patch-package": "^6.2.2",
-    "prettier": "2.0.2",
+    "prettier": "2.2.1",
     "ramda": "0.27.0",
     "raw-loader": "^4.0.1",
     "remark-admonitions": "1.2.1",
