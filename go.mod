@@ -43,7 +43,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/pkg/profile v1.3.0 // indirect
 	github.com/prometheus/client_golang v1.4.0
-	github.com/rs/cors v1.6.0
+	github.com/rs/cors v1.7.0
 	github.com/rubenv/sql-migrate v0.0.0-20190212093014-1007f53448d7
 	github.com/sawadashota/encrypta v0.0.2
 	github.com/sirupsen/logrus v1.6.0
