@@ -24,7 +24,7 @@
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "cross-env": "^5.2.1",
+    "cross-env": "^7.0.0",
     "nodemon": "^1.19.4"
   }
 }
