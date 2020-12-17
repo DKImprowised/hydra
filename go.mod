@@ -5,12 +5,12 @@ go 1.15
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/go-bindata/go-bindata v3.1.1+incompatible
-	github.com/go-openapi/errors v0.19.3
-	github.com/go-openapi/runtime v0.19.11
-	github.com/go-openapi/strfmt v0.19.4
-	github.com/go-openapi/swag v0.19.7
-	github.com/go-openapi/validate v0.19.6
-	github.com/go-swagger/go-swagger v0.22.1-0.20200306221957-4aad3a5f78b8
+	github.com/go-openapi/errors v0.19.6
+	github.com/go-openapi/runtime v0.19.20
+	github.com/go-openapi/strfmt v0.19.5
+	github.com/go-openapi/swag v0.19.9
+	github.com/go-openapi/validate v0.19.10
+	github.com/go-swagger/go-swagger v0.25.0
 	github.com/gobuffalo/packr v1.24.0 // indirect
 	github.com/gobuffalo/packr/v2 v2.8.0
 	github.com/gobuffalo/pop/v5 v5.3.1
@@ -54,6 +54,7 @@ require (
 	github.com/tidwall/pretty v1.0.1 // indirect
 	github.com/toqueteos/webbrowser v1.2.0
 	github.com/urfave/negroni v1.0.0
+	github.com/vektah/gqlparser v1.1.2 // indirect
 	go.elastic.co/apm/module/apmot v1.8.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.13.0 // indirect
 	go.uber.org/automaxprocs v1.3.0
