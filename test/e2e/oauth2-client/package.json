@@ -20,7 +20,7 @@
     "node-fetch": "^2.6.0",
     "node-uuid": "^1.4.8",
     "openid-client": "^2.5.0",
-    "simple-oauth2": "^2.5.2",
+    "simple-oauth2": "^4.0.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
