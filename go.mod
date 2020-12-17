@@ -29,7 +29,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.4 // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
 	github.com/oleiade/reflections v1.0.0
-	github.com/olekukonko/tablewriter v0.0.1
+	github.com/olekukonko/tablewriter v0.0.2
 	github.com/ory/analytics-go/v4 v4.0.1
 	github.com/ory/cli v0.0.28
 	github.com/ory/fosite v0.34.1
@@ -44,7 +44,7 @@ require (
 	github.com/pkg/profile v1.3.0 // indirect
 	github.com/prometheus/client_golang v1.4.0
 	github.com/rs/cors v1.6.0
-	github.com/rubenv/sql-migrate v0.0.0-20190212093014-1007f53448d7
+	github.com/rubenv/sql-migrate v0.0.0-20200616145509-8d140a17f351
 	github.com/sawadashota/encrypta v0.0.2
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cobra v1.0.0
